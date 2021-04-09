@@ -1,0 +1,20 @@
+{
+  "data": [
+    [
+      "Tiger Nixon",
+      "System Architect",
+      "Edinburgh",
+      "5421",
+      "2011/04/25",
+      "$320,800"
+    ],
+    [
+      "Lael Greer",
+      "Systems Administrator",
+      "London",
+      "6733",
+      "2009/02/27",
+      "$103,500"
+    ]
+  ]
+}
